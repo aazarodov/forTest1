@@ -1,0 +1,22 @@
+{
+  "name": "fortest1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aazarodov/forTest1.git"
+  },
+  "author": "aazarodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aazarodov/forTest1/issues"
+  },
+  "homepage": "https://github.com/aazarodov/forTest1#readme",
+  "dependencies": {
+    "@metarhia/common": "^2.1.0"
+  }
+}
